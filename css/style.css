@@ -1,0 +1,21 @@
+ul{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    border:3px dashed black ;
+    background-color:pink;
+    
+}
+h1{
+    color: rgb(0, 0, 0);
+    border: 6px double rgb(0, 0, 0);
+    text-align: center;
+    background-color: mediumorchid;
+}
+footer{
+    color: blue;
+    background-color: rgb(199, 241, 241);
+    border: 4px dotted black;
+}
+body{
+    border: 6px solid black;
+}
